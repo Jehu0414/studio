@@ -1,0 +1,21 @@
+{
+  "name": "Harmony Vault",
+  "short_name": "Harmony",
+  "description": "Professional Musician's Library",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#15151A",
+  "theme_color": "#9999EB",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/hicon/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/hicon/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

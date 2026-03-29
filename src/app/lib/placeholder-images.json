@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Abstract music studio background",
+      "imageUrl": "https://picsum.photos/seed/music1/1200/800",
+      "imageHint": "music studio"
+    },
+    {
+      "id": "guitar-chords",
+      "description": "Close up of guitar fretboard",
+      "imageUrl": "https://picsum.photos/seed/guitar/600/400",
+      "imageHint": "guitar player"
+    },
+    {
+      "id": "piano-notes",
+      "description": "Sheet music on a piano",
+      "imageUrl": "https://picsum.photos/seed/piano/600/400",
+      "imageHint": "piano music"
+    },
+    {
+      "id": "concert-stage",
+      "description": "Empty concert stage with lights",
+      "imageUrl": "https://picsum.photos/seed/stage/600/400",
+      "imageHint": "concert stage"
+    }
+  ]
+}

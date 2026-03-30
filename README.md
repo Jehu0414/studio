@@ -1,4 +1,4 @@
-# Firebase Studio
+# ehu seat builders
 
 This is a NextJS starter in Firebase Studio
 

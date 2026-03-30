@@ -47,7 +47,11 @@ export default function LandingPage() {
           
           <h1 className="text-5xl md:text-7xl font-headline font-bold leading-tight mb-8 tracking-tighter">
             Every chord, every setlist. <br />
-            <span className="text-transparent bg-clip-text music-gradient">Available everywhere.</span>
+            <span className="inline-flex items-center justify-center mt-4">
+              <svg viewBox="0 0 24 24" className="w-16 h-16 md:w-24 md:h-24 fill-current text-primary" xmlns="http://www.w3.org/2000/svg">
+                <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.503 17.306c-.218.358-.684.474-1.042.256-2.86-1.748-6.459-2.143-10.7-1.173-.41.094-.82-.163-.914-.572-.094-.41.163-.82.572-.914 4.636-1.06 8.614-.61 11.828 1.353.358.218.474.684.256 1.05zm1.468-3.258c-.274.446-.858.587-1.304.313-3.274-2.012-8.264-2.593-12.135-1.417-.504.153-1.034-.135-1.187-.639-.153-.504.135-1.034.639-1.187 4.417-1.34 9.914-.68 13.674 1.629.446.274.587.858.313 1.304zm.127-3.38c-3.928-2.333-10.413-2.55-14.19-1.3c-.603.183-1.247-.168-1.43-.771-.183-.603.168-1.247.771-1.43 4.343-1.319 11.498-1.065 15.998 1.605.54.32.715 1.015.395 1.555s-1.015.715-1.555.395z"/>
+              </svg>
+            </span>
           </h1>
           
           <p className="text-lg md:text-xl text-muted-foreground mb-12 max-w-2xl mx-auto leading-relaxed">
